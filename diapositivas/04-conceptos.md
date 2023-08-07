@@ -26,10 +26,6 @@ class Animal {
 
 //La subclase Perro recibe el método hacerSonido() pero lo sobreescribe para modificar su implementación
 class Perro extends Animal {
-    public Perro(String especie) {
-        super(species);
-    }
-
     @Override
     public void hacerSonido() {
         System.out.println("Guau!"); //Implementación sobreescrita
