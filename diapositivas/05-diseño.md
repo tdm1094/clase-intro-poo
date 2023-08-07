@@ -1,12 +1,12 @@
 ## Conceptos básicos de diseño
 ---V
-## UML (Unified Modeling Language)
+### UML (Unified Modeling Language)
 El "Lenguaje de Modelado Unificado" nos permite, entre otras cosas, [diagramar clases](https://diagramasuml.com/diagrama-de-clases/) para visualizar y comunicar fácilmente su estructura (estado y comportamiento) y sus relaciones con otros objetos.
 ---V
-## UML - Ejemplo
+### UML - Ejemplo
 <img src=resources/uml.png height=500px/>
 ---V
-## Principios SOLID
+### Recursos para un mejor diseño
 Los [patrones de diseño](https://refactoring.guru/es/design-patterns) son soluciones probadas para problemas de diseño de software comunes.  
 
 [SOLID](https://www.freecodecamp.org/espanol/news/los-principios-solid-explicados-en-espanol/) es un acrónimo que representa cinco principios de diseño de POO. 
